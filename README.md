@@ -1,4 +1,4 @@
-# Movie-Recommendation-System-
+# Movie-Recommendation-System
 This project is an implementation of a movie recommendation system utilizing two different approaches: Collaborative Filtering and Singular Value Decomposition (SVD) combined with K-means clustering. The system suggests movies to users based on their historical preferences and similarities with other users.
 
 ## Table of Contents
